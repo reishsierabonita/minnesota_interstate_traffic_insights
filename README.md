@@ -1,20 +1,26 @@
 # <h1> Minnesota Interstate High Volume Traffic Insights </h>
 
 #### Introduction:
-As part of the "Creating Dashboards and Storytelling with Tableau" course in Coursera, I've created an analysis to answer a business question:
-<p>Are discounted orders more or less profitable than non-discounted orders? </p>
+<p>As part of the Google Business Intelligence Certificate program, this project focuses on assisting the Minnesota Department of Transportation in creating a comprehensive traffic monitoring dashboard.
+The project aims to provide valuable insights into traffic patterns, enabling informed infrastructure decisions while ensuring driver convenience.</p>
 
 #### Project Scope:
-This Story Points presentation effectively answers the business question by presenting a clear narrative supported by well-designed visualizations. 
-It aligns with the board's needs for actionable insights and demonstrates the impact of discounts on profitability. 
-The design choices reflect the specific needs of the audience, ensuring a compelling and informative presentation for the stakeholders.
+The dashboard incorporates traffic volume data by month, day of week, time of day, weather conditions, holidays, and multiple years. It allows detailed analysis of congestion patterns and trends.
 
 ####
 <a href="https://public.tableau.com/app/profile/reishsier.abonita/viz/MinnesotaInterstateHighVolumeTrafficInsights/MinnesotaInterstateTrafficVolume2"><img src="Minnesota Interstate Traffic Volume.png"></img></a>
 
 #### Who It's For:
-Crafted for the company's board members, the key decision-makers. It's designed to deliver clear findings and actionable recommendations from the "Superstore Discount Analysis.
-#### Design Choice:
-To strike a balance between minimalism and informative content, I chose a design approach rooted in Gestalt principles. 
-This ensures easy understanding, even for non-technical individuals. 
-The motivation behind this lies in recognizing the importance of delivering clear insights to key decision-makers – the company's board members.
+The primary audience is Minnesota Department of Transportation planners and traffic analysts. It enables data-driven infrastructure and traffic management decision making.
+
+#### Key Insights:
+<ul>
+  <li>Traffic has grown steadily year-over-year from 2016-2018</li>
+  <li>Weekday peak periods are 7-9 AM and 4-6 PM</li>
+  <li>Holidays like Memorial Day and Labor Day have very high volumes</li>
+  <li>Snow, rain, and storms significantly reduce traffic</li>
+</ul>
+
+#### Recommendations:
+<p>Leverage insights on peak congestion times and weather impacts to optimize construction scheduling. Identify top bottlenecks based on traffic patterns to prioritize infrastructure improvements.</p>
+<p>In summary, this dashboard delivers a powerful platform for uncovering actionable insights to improve Minnesota's transportation system performance.</p>
